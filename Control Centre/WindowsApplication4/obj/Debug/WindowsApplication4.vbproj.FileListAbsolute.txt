@@ -1,0 +1,26 @@
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.AboutBox1.resources
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.NwZapis.resources
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Nastr.resources
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Documents and Settings\MAX\Мои документы\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.AboutBox1.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Form1.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.NwZapis.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Resources.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Nastr.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache

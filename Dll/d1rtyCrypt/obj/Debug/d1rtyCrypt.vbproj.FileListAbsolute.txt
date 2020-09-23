@@ -1,0 +1,21 @@
+C:\555\2\d1rtyCRYPT1718973112004\d1rtyCrypt\bin\d1rtyCrypt.dll
+C:\555\2\d1rtyCRYPT1718973112004\d1rtyCrypt\bin\d1rtyCrypt.pdb
+C:\555\2\d1rtyCRYPT1718973112004\d1rtyCrypt\bin\d1rtyCrypt.xml
+C:\555\2\d1rtyCRYPT1718973112004\d1rtyCrypt\obj\Debug\ResolveAssemblyReference.cache
+C:\555\2\d1rtyCRYPT1718973112004\d1rtyCrypt\obj\Debug\d1rtyCrypt.dll
+C:\555\2\d1rtyCRYPT1718973112004\d1rtyCrypt\obj\Debug\d1rtyCrypt.xml
+C:\555\2\d1rtyCRYPT1718973112004\d1rtyCrypt\obj\Debug\d1rtyCrypt.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\d1rtyCrypt\bin\d1rtyCrypt.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\d1rtyCrypt\bin\d1rtyCrypt.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\d1rtyCrypt\bin\d1rtyCrypt.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\d1rtyCrypt\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\d1rtyCrypt\obj\Debug\d1rtyCrypt.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\d1rtyCrypt\obj\Debug\d1rtyCrypt.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\d1rtyCrypt\obj\Debug\d1rtyCrypt.pdb
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\bin\cript.dll
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\bin\cript.pdb
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\bin\cript.xml
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\cript.dll
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\cript.xml
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\cript.pdb

@@ -1,0 +1,7 @@
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\bin\cript.dll
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\bin\cript.pdb
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\bin\cript.xml
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\cript.dll
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\cript.xml
+E:\MY_Prog\AntiTrojan\NET\Dll\d1rtyCrypt\obj\Debug\cript.pdb
