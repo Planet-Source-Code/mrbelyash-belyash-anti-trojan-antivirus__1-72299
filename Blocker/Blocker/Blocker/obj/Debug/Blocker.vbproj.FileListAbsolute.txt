@@ -1,0 +1,16 @@
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\bin\Debug\Blocker.exe
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\bin\Debug\Blocker.pdb
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\bin\Debug\Blocker.xml
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Blocker.Form1.resources
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Blocker.Resources.resources
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Blocker.vbproj.GenerateResource.Cache
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Blocker.exe
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Blocker.xml
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Blocker.pdb
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\bin\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\obj\Debug\Blocker.vbproj.ResolveComReference.cache
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\bin\Debug\cript.dll
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\bin\Debug\cript.pdb
+E:\MY_Prog\AntiTrojan\NET\Blocker\Blocker\Blocker\bin\Debug\cript.xml

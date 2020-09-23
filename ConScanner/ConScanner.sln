@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConScanner", "ConScanner\ConScanner.vbproj", "{B3C07C44-FA96-4B7E-BE4D-B7A506BBDCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C07C44-FA96-4B7E-BE4D-B7A506BBDCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C07C44-FA96-4B7E-BE4D-B7A506BBDCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C07C44-FA96-4B7E-BE4D-B7A506BBDCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C07C44-FA96-4B7E-BE4D-B7A506BBDCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

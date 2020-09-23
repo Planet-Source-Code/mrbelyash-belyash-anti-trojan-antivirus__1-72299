@@ -1,0 +1,10 @@
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\bin\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\bin\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\bin\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\obj\Debug\Monitor.Nastroyka.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\obj\Debug\Monitor.Resources.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\obj\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\obj\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\Vista TreeView Demo\Vista TreeView Demo\obj\Debug\Monitor.pdb

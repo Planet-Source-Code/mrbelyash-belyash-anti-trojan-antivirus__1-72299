@@ -1,0 +1,153 @@
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.AboutBox1.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Form1.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.NwZapis.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Resources.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Nastr.resources
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.exe.manifest
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.application
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.exe
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.pdb
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.xml
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.TrustInfo.xml
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.exe.manifest
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.application
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.exe
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.xml
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.pdb
+D:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.frmQuarant.resources
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.AboutBox1.resources
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Form1.resources
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.NwZapis.resources
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.frmQuarant.resources
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Resources.resources
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.Nastr.resources
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.TrustInfo.xml
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\bin\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\Monitor\Net\WindowsApplication4\obj\Debug\Monitor.vbproj.ResolveComReference.cache
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.vbproj.ResolveComReference.cache
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.Form1.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.NwZapis.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.Aboutbox1.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.frmQuarant.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.Resources.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.Nastr.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.vbproj.ResolveComReference.cache
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.Form1.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.Aboutbox1.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.frmQuarant.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.NwZapis.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.Resources.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.Nastr.resources
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\bin\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\bin\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\bin\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\bin\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\bin\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\bin\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\bin\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.TrustInfo.xml
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\NET\Shield\1\WindowsApplication4\obj\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.TrustInfo.xml
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\bin\Debug\Interop.BelUnpack.dll
+E:\MY_Prog\AntiTrojan\NET\Shield\WindowsApplication4\obj\Debug\Interop.BelUnpack.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Interop.BelUnpack.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.vbproj.ResolveComReference.cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Interop.BelUnpack.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.Form1.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.NwZapis.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.Resources.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.Window.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.frmActivate.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Interop.MonitorReg.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Interop.MonitorReg.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Interop.BelUnpack.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Interop.MonitorReg.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.vbproj.ResolveComReference.cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.Form1.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.frmActivate.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.NastrFirewall.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.NastrUpdate.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.NastrScanner.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.NwZapis.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.Resources.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.Nastr.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.Window.resources
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Monitor.exe
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Monitor.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Monitor.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\d1rtyCrypt.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\d1rtyCrypt.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\d1rtyCrypt.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Interop.BelUnpack.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Interop.MonitorReg.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Interop.MyLibrary.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\bin\Debug\Interop.Shell32.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.TrustInfo.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.exe.manifest
+E:\MY_Prog\AntiTrojan\NET\Control Centre\1\WindowsApplication4\obj\Debug\Monitor.application
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\cript.dll
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\cript.pdb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\cript.xml
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\Monitor.exe.config
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\bin\Debug\WindowsVistaTreeView.vb
+E:\MY_Prog\AntiTrojan\NET\Control Centre\WindowsApplication4\obj\Debug\Monitor.Nastroyka.resources
